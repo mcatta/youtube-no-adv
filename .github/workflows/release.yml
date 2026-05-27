@@ -82,7 +82,7 @@ jobs:
             binary: youtube-no-adv
             asset: youtube-no-adv-mac-arm64
 
-          - os: macos-13
+          - os: macos-latest
             target: x86_64-apple-darwin
             binary: youtube-no-adv
             asset: youtube-no-adv-mac-x86_64
